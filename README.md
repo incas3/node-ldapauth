@@ -12,6 +12,8 @@ This can be used in web-applications that authenticate users from a central dire
 
 It binds to the native OpenLDAP library (libldap) and calls ldap_simple_bind().
 
+Updated to work with node v0.6.9
+
 Building
 --------
 
